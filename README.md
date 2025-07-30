@@ -42,7 +42,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/kiinno/kiinno/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/kiinno/kiinno/output/github-contribution-grid-snake.svg)
 
 ---
 
