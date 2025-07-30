@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Kiinno</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 25 Years Old</h3>
+<h1 align="center">Hey 👋, I'm Romany Tawfiq Shehata</h1>
+<h3 align="center">🚀 React/Next.js Developer | 💻 22 Years Old</h3>
 
 <p align="center">
   <a href="https://your-cv-link.com" target="_blank">
@@ -15,15 +15,38 @@
 
 ---
 
-### 🧠 Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-MySQL-lightblue?style=for-the-badge&logo=mysql" />
+### 🧠 Skills & Technologies
+
+#### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pug/Jade-A86454?style=for-the-badge&logo=pug&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### 🧩 Backend
+<p>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
+
+#### 🧰 Tools & Version Control
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+#### 🧠 Other Skills
+<p>
+  <img src="https://img.shields.io/badge/-Networking Basics-005f73?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
