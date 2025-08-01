@@ -75,7 +75,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/kiinno/kiinno/output/github-contribution-grid-snake.svg)
+![snake gif](https://platane.github.io/snk/)
 
 ---
 
